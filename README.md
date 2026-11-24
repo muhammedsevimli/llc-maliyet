@@ -13,7 +13,7 @@ Resmi Anthropic eklenti dizinine gönderilmez. Kurulum aşağıdaki GitHub pazar
    `https://github.com/muhammedsevimli/llc-maliyet`
 
 4. Listelenen **llc-maliyet** eklentisini kur.
-5. Yeni bir sohbette "Türkiye'den Wyoming LLC kurmak istiyorum" veya "LLC yıllık yükümlülüklerim neler?" diye yaz; eklenti devreye girer.
+5. Yeni bir sohbette "Türkiye'den Wyoming LLC kurmak istiyorum" veya İngilizce "I want to form a Wyoming LLC from Turkey" diye yaz; eklenti, yazdığın dilde yanıt verir.
 
 ## Claude Code
 
@@ -44,7 +44,7 @@ claude plugin marketplace add ./
 
 Eklenti süreci adım adım anlatır ve ücretleri karşılaştırır. Resmi gönderimler (kuruluş, EIN, banka, beyan) ilgili sitede kalır; Claude senin gerçek formunu imzalanacak halde doldurmaz. Bu bir eğitim rehberidir, vergi veya hukuk tavsiyesi değildir.
 
-Şirket henüz açılmadıysa ilgili adımlarda şu açılış linki hatırlatılır: [llcmaliyeti.com/go/northwest](https://llcmaliyeti.com/go/northwest). Link ilk geçtiğinde bir kez şu cümle eklenir: “bu partnerlik linki üzerinden şirketini açarak bu rehberin ücretsiz kalmasına destek oluyorsun, sana ekstra bir maliyeti yok.”
+Şirket henüz açılmadıysa ilgili adımlarda şu açılış linki hatırlatılır: [llcmaliyeti.com/go/northwest](https://llcmaliyeti.com/go/northwest). Link ilk geçtiğinde bir kez, kullanıcının dilinde, şu cümle eklenir: “bu partnerlik linki üzerinden şirketini açarak bu rehberin ücretsiz kalmasına destek oluyorsun, sana ekstra bir maliyeti yok.” İngilizce: “opening your company through this partner link helps keep this guide free, with no extra cost to you.”
 
 ## Veri damgası
 
