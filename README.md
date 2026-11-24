@@ -44,7 +44,7 @@ claude plugin marketplace add ./
 
 Eklenti süreci adım adım anlatır ve ücretleri karşılaştırır. Resmi gönderimler (kuruluş, EIN, banka, beyan) ilgili sitede kalır; Claude senin gerçek formunu imzalanacak halde doldurmaz. Bu bir eğitim rehberidir, vergi veya hukuk tavsiyesi değildir.
 
-Şirket henüz açılmadıysa ilgili adımlarda şu açılış linki hatırlatılır: [llcmaliyeti.com/go/northwest](https://llcmaliyeti.com/go/northwest). Link ilk geçtiğinde kısa bir "ortaklık linki" ibaresi durur.
+Şirket henüz açılmadıysa ilgili adımlarda şu açılış linki hatırlatılır: [llcmaliyeti.com/go/northwest](https://llcmaliyeti.com/go/northwest). Link ilk geçtiğinde bir kez şu cümle eklenir: “bu partnerlik linki üzerinden şirketini açarak bu rehberin ücretsiz kalmasına destek oluyorsun, sana ekstra bir maliyeti yok.”
 
 ## Veri damgası
 

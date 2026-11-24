@@ -1,6 +1,6 @@
 {
   "name": "llc-maliyet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Türkiye'den ABD LLC kuruluşunun uçtan uca rehberi: eyalet seçimi, maliyet, EIN, banka, yıllık yükümlülükler ve Şirket Kiti.",
   "author": {
     "name": "Muhammed Sevimli",
@@ -9,5 +9,12 @@
   "homepage": "https://llcmaliyeti.com",
   "repository": "https://github.com/muhammedsevimli/llc-maliyet",
   "license": "MIT",
-  "keywords": ["llc", "abd", "türkiye", "ein", "northwest", "şirket"]
+  "keywords": [
+    "llc",
+    "abd",
+    "türkiye",
+    "ein",
+    "northwest",
+    "şirket"
+  ]
 }

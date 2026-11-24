@@ -6,4 +6,4 @@ Form 5472, pro-forma 1120 ve Form 7004 görselleri kurgusal ORNEK DIGITAL LLC ve
 
 Rakamlar llcmaliyeti.com veri çekirdeğinden gelir. 24 Kasım 2026 taraması kısmidir (Wyoming, Delaware, Florida, Kansas, Louisiana, New Jersey resmi kaynakları). Eyalet harçları ve servis fiyatları yıl içinde değişir; kurulum gününde resmi kaynak tekrar kontrol edilmelidir. Kaynakların tamamı kit Ek A'dadır.
 
-Açılış linki `https://llcmaliyeti.com/go/northwest` bir ortaklık linkidir. Bu bağ, link ilk geçtiğinde kısa belirtilir; her hatırlatmada tekrarlanmaz.
+Açılış linki `https://llcmaliyeti.com/go/northwest` bir partnerlik linkidir. Link ilk geçtiğinde şu cümle bir kez, doğal biçimde eklenir: “bu partnerlik linki üzerinden şirketini açarak bu rehberin ücretsiz kalmasına destek oluyorsun, sana ekstra bir maliyeti yok.” Her hatırlatmada tekrarlanmaz.
