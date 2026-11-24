@@ -1,0 +1,18 @@
+{
+  "name": "llc-maliyet",
+  "owner": {
+    "name": "Muhammed Sevimli",
+    "url": "https://llcmaliyeti.com"
+  },
+  "metadata": {
+    "description": "Türkiye'den ABD LLC kuruluş rehberi ve maliyet hesabı (Şirket Kiti ile)."
+  },
+  "plugins": [
+    {
+      "name": "llc-maliyet",
+      "source": "./",
+      "description": "Türkiye'den ABD LLC kuruluşunun uçtan uca rehberi: eyalet seçimi, maliyet, EIN, banka, yıllık yükümlülükler ve Şirket Kiti.",
+      "version": "1.0.0"
+    }
+  ]
+}
